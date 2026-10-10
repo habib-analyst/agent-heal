@@ -1,0 +1,30 @@
+{"fault": "kill9", "strategy": "heal", "rep": 0, "recovered": true, "cpu_s": 2.652, "wall_s": 9.199, "attempts": 2, "final_failure": null, "cell_wall_s": 9.2}
+{"fault": "kill9", "strategy": "heal", "rep": 1, "recovered": true, "cpu_s": 2.63, "wall_s": 13.02, "attempts": 2, "final_failure": null, "cell_wall_s": 13.0}
+{"fault": "kill9", "strategy": "heal", "rep": 2, "recovered": true, "cpu_s": 2.63, "wall_s": 11.565, "attempts": 2, "final_failure": null, "cell_wall_s": 11.6}
+{"fault": "kill9", "strategy": "naive", "rep": 0, "recovered": true, "cpu_s": 3.521, "wall_s": 18.454, "attempts": 2, "cell_wall_s": 18.5}
+{"fault": "kill9", "strategy": "naive", "rep": 1, "recovered": true, "cpu_s": 3.572, "wall_s": 19.339, "attempts": 2, "cell_wall_s": 19.3}
+{"fault": "kill9", "strategy": "naive", "rep": 2, "recovered": true, "cpu_s": 3.529, "wall_s": 19.557, "attempts": 2, "cell_wall_s": 19.6}
+{"fault": "nan", "strategy": "heal", "rep": 0, "recovered": true, "cpu_s": 1.856, "wall_s": 8.104, "attempts": 2, "final_failure": null, "cell_wall_s": 8.1}
+{"fault": "nan", "strategy": "heal", "rep": 1, "recovered": true, "cpu_s": 1.872, "wall_s": 8.401, "attempts": 2, "final_failure": null, "cell_wall_s": 8.4}
+{"fault": "nan", "strategy": "heal", "rep": 2, "recovered": true, "cpu_s": 1.876, "wall_s": 8.369, "attempts": 2, "final_failure": null, "cell_wall_s": 8.4}
+{"fault": "nan", "strategy": "naive", "rep": 0, "recovered": true, "cpu_s": 3.51, "wall_s": 17.442, "attempts": 2, "cell_wall_s": 17.4}
+{"fault": "nan", "strategy": "naive", "rep": 1, "recovered": true, "cpu_s": 3.525, "wall_s": 20.352, "attempts": 2, "cell_wall_s": 20.4}
+{"fault": "nan", "strategy": "naive", "rep": 2, "recovered": true, "cpu_s": 3.522, "wall_s": 17.402, "attempts": 2, "cell_wall_s": 17.4}
+{"fault": "diskfull", "strategy": "heal", "rep": 0, "recovered": true, "cpu_s": 2.628, "wall_s": 14.846, "attempts": 2, "final_failure": null, "cell_wall_s": 14.8}
+{"fault": "diskfull", "strategy": "heal", "rep": 1, "recovered": true, "cpu_s": 2.621, "wall_s": 11.707, "attempts": 2, "final_failure": null, "cell_wall_s": 11.7}
+{"fault": "diskfull", "strategy": "heal", "rep": 2, "recovered": true, "cpu_s": 2.635, "wall_s": 12.712, "attempts": 2, "final_failure": null, "cell_wall_s": 12.7}
+{"fault": "diskfull", "strategy": "naive", "rep": 0, "recovered": true, "cpu_s": 3.52, "wall_s": 16.684, "attempts": 2, "cell_wall_s": 16.7}
+{"fault": "diskfull", "strategy": "naive", "rep": 1, "recovered": true, "cpu_s": 3.524, "wall_s": 17.63, "attempts": 2, "cell_wall_s": 17.6}
+{"fault": "diskfull", "strategy": "naive", "rep": 2, "recovered": true, "cpu_s": 3.534, "wall_s": 18.866, "attempts": 2, "cell_wall_s": 18.9}
+{"fault": "hang", "strategy": "heal", "rep": 0, "recovered": true, "cpu_s": 2.915, "wall_s": 18.13, "attempts": 2, "final_failure": null, "cell_wall_s": 18.1}
+{"fault": "hang", "strategy": "heal", "rep": 1, "recovered": true, "cpu_s": 2.908, "wall_s": 19.62, "attempts": 2, "final_failure": null, "cell_wall_s": 19.6}
+{"fault": "hang", "strategy": "heal", "rep": 2, "recovered": true, "cpu_s": 2.653, "wall_s": 22.053, "attempts": 2, "final_failure": null, "cell_wall_s": 22.1}
+{"fault": "hang", "strategy": "naive", "rep": 0, "recovered": true, "cpu_s": 3.548, "wall_s": 36.474, "attempts": 2, "cell_wall_s": 36.5}
+{"fault": "hang", "strategy": "naive", "rep": 1, "recovered": true, "cpu_s": 3.512, "wall_s": 35.653, "attempts": 2, "cell_wall_s": 35.7}
+{"fault": "hang", "strategy": "naive", "rep": 2, "recovered": true, "cpu_s": 3.526, "wall_s": 37.117, "attempts": 2, "cell_wall_s": 37.1}
+{"fault": "oom", "strategy": "heal", "rep": 0, "recovered": true, "cpu_s": 1.408, "wall_s": 7.322, "attempts": 2, "final_failure": null, "cell_wall_s": 7.3}
+{"fault": "oom", "strategy": "heal", "rep": 1, "recovered": true, "cpu_s": 1.431, "wall_s": 8.291, "attempts": 2, "final_failure": null, "cell_wall_s": 8.3}
+{"fault": "oom", "strategy": "heal", "rep": 2, "recovered": true, "cpu_s": 1.443, "wall_s": 10.198, "attempts": 2, "final_failure": null, "cell_wall_s": 10.2}
+{"fault": "oom", "strategy": "naive", "rep": 0, "recovered": false, "cpu_s": 0.336, "wall_s": 3.916, "attempts": 3, "cell_wall_s": 3.9}
+{"fault": "oom", "strategy": "naive", "rep": 1, "recovered": false, "cpu_s": 0.325, "wall_s": 3.658, "attempts": 3, "cell_wall_s": 3.7}
+{"fault": "oom", "strategy": "naive", "rep": 2, "recovered": false, "cpu_s": 0.332, "wall_s": 3.726, "attempts": 3, "cell_wall_s": 3.7}

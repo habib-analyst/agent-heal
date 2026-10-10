@@ -1,0 +1,15 @@
+[project]
+name = "agent-heal"
+version = "0.1.0"
+description = "Self-healing supervisor for long-running agent/training jobs: classify the failure, pick the recovery."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Habib Ur Rehman" }]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

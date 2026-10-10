@@ -1,0 +1,72 @@
+{
+  "kill9/heal": {
+    "n": 3,
+    "recovery_rate": 1.0,
+    "mean_cpu_s": 2.637,
+    "mean_wall_s": 11.261,
+    "mean_attempts": 2.0
+  },
+  "kill9/naive": {
+    "n": 3,
+    "recovery_rate": 1.0,
+    "mean_cpu_s": 3.541,
+    "mean_wall_s": 19.117,
+    "mean_attempts": 2.0
+  },
+  "nan/heal": {
+    "n": 3,
+    "recovery_rate": 1.0,
+    "mean_cpu_s": 1.868,
+    "mean_wall_s": 8.291,
+    "mean_attempts": 2.0
+  },
+  "nan/naive": {
+    "n": 3,
+    "recovery_rate": 1.0,
+    "mean_cpu_s": 3.519,
+    "mean_wall_s": 18.399,
+    "mean_attempts": 2.0
+  },
+  "diskfull/heal": {
+    "n": 3,
+    "recovery_rate": 1.0,
+    "mean_cpu_s": 2.628,
+    "mean_wall_s": 13.088,
+    "mean_attempts": 2.0
+  },
+  "diskfull/naive": {
+    "n": 3,
+    "recovery_rate": 1.0,
+    "mean_cpu_s": 3.526,
+    "mean_wall_s": 17.727,
+    "mean_attempts": 2.0
+  },
+  "hang/heal": {
+    "n": 3,
+    "recovery_rate": 1.0,
+    "mean_cpu_s": 2.825,
+    "mean_wall_s": 19.934,
+    "mean_attempts": 2.0
+  },
+  "hang/naive": {
+    "n": 3,
+    "recovery_rate": 1.0,
+    "mean_cpu_s": 3.529,
+    "mean_wall_s": 36.415,
+    "mean_attempts": 2.0
+  },
+  "oom/heal": {
+    "n": 3,
+    "recovery_rate": 1.0,
+    "mean_cpu_s": 1.427,
+    "mean_wall_s": 8.604,
+    "mean_attempts": 2.0
+  },
+  "oom/naive": {
+    "n": 3,
+    "recovery_rate": 0.0,
+    "mean_cpu_s": null,
+    "mean_wall_s": null,
+    "mean_attempts": 3.0
+  }
+}
